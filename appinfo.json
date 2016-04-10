@@ -1,0 +1,46 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chops",
+    "enableMultiJS": false,
+    "longName": "woodstock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon_bluetooth.png",
+                "name": "IMAGE_BLUETOOTH",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/start.png",
+                "name": "ANIMATIONSTART",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "data/animation.png",
+                "name": "ANIMATION",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "woodstock",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "9ee885cb-b600-456a-8636-0d0237315195",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
